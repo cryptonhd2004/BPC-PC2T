@@ -1,0 +1,3 @@
+2
+Alfons 5 0
+Karel 19 0

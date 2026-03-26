@@ -1,0 +1,3 @@
+Pocet: 5
+Jmeno: Karel rok narozeni: 1987 studijni prumer: nezadan
+Jmeno: Pavla rok narozeni: 2000 studijni prumer: 3.4
